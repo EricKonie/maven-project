@@ -1,1 +1,1 @@
-Hello, Eric!
+Zoinks, it's the creepy coin collector again!
