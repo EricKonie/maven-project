@@ -1,1 +1,1 @@
-Zoinks, Eric!
+Zoinks!
