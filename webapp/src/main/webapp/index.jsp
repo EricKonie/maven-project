@@ -1,1 +1,1 @@
-Oh yeah, this is my second Jenkinsfile and it deployed to staging!
+Deployed to staging!
