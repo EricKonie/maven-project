@@ -1,1 +1,1 @@
-Deployed to staging, go!
+Deployed to staging, yep it worked!
