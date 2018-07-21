@@ -35,7 +35,7 @@ pipeline {
                 }
 
                 failure {
-                    echo 'Deployment failed, Freddy .'
+                    echo 'Deployment failed, Shaggy.'
                 }
             }
         }
