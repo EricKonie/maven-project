@@ -1,1 +1,1 @@
-Deployed to staging, yep it worked!
+EC2 pipeline
