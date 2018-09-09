@@ -5,8 +5,8 @@ pipeline {
         maven 'localMaven' 
     }
     parameters {
-         string(name: 'tomcat_dev', defaultValue: 'ec2-18-216-196-63.us-east-2.compute.amazonaws.com', description: 'Staging Server')
-         string(name: 'tomcat_prod', defaultValue: 'ec2-18-222-126-10.us-east-2.compute.amazonaws.com', description: 'Production Server')
+         string(name: 'tomcat_dev', defaultValue: 'ec2-18-220-91-139.us-east-2.compute.amazonaws.com', description: 'Staging Server')
+         string(name: 'tomcat_prod', defaultValue: 'ec2-18-222-250-177.us-east-2.compute.amazonaws.com', description: 'Production Server')
     }
 
     triggers {
